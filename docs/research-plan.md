@@ -1,97 +1,133 @@
 # Research Plan – Christoph Dashboard
 **Project:** HiveMind × Ravensbourne – UX Product Discovery Sprint  
 **Focus Area:** "Christoph" Dashboard  
-**Last Updated:** 2025-03-29
+**Last Updated:** 2026-03-29
 
 ---
 
 ## 1. Research Goal
 
-To understand how workplace professionals currently experience information overload, scattered tooling, and difficult navigation — and to validate whether our proposed Dashboard design addresses Christoph's core pain points around cognitive load, unified information view, and ease of navigation.
+To understand how workplace professionals currently experience information overload, scattered tooling, and difficult navigation — and to validate whether our proposed Dashboard design addresses Christoph's core pain points: cognitive load, no unified view, and difficult navigation.
 
 ---
 
 ## 2. Research Questions
 
-We aimed to answer the following high-level questions:
+The following questions guided all interviews:
 
-1. How do professionals currently manage information from multiple tools in their workday?
-2. Where do they feel overwhelmed or lose time navigating between systems?
-3. What would a "perfect" unified dashboard look like to them?
-4. How important is navigation clarity vs. information density?
-5. What do they trust and rely on most in their current workspace tools?
+1. What is your current job role and what does a typical workday look like?
+2. How many different tools or platforms do you use daily to do your job?
+3. How do you keep track of tasks, updates, and team information?
+4. Is there a single place you go to get an overview — or is information spread across multiple places?
+5. Can you describe a recent moment where finding information felt overwhelming or frustrating?
+6. What slows you down the most when navigating your work tools?
+7. If you had one home screen showing the most important things, what would you want it to display?
+8. What information should be super quick to access — within a few clicks?
+9. Have you used AI tools at work (e.g. ChatGPT, Copilot)? What was good or bad about it?
+10. What would make you trust or not trust an AI tool at work?
 
 ---
 
 ## 3. Method
 
 **Method used:** Semi-structured interviews  
-**Format:** 1-to-1 conversations (in person or remote)  
-**Duration:** ~20–30 minutes per session  
-**When conducted:** Week 1 of the sprint
+**Format:** 1-to-1 conversations (in person or remote/recorded)  
+**Duration:** ~30–40 minutes per session  
+**When conducted:** Week 1 of the sprint (March 2026)
 
 ---
 
 ## 4. Participants
 
-| # | Role / Relationship | Work Experience | Interview Date |
-|---|---|---|---|
-| 1 | Colleague / Coworker | Professional workplace | Week 1 |
-| 2 | Colleague / Coworker | Professional workplace | Week 1 |
-| 3 | Colleague / Coworker | Professional workplace | Week 1 |
-| 4 | Colleague / Coworker | Professional workplace | Week 1 |
-| 5 | Colleague / Coworker | Professional workplace | Week 1 |
+| # | Interviewer | Participant | Role | Industry | Company Size |
+|---|---|---|---|---|---|
+| P1 | Toriqul | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
+| P2 | Arnob | Anonymous | Sales Assistant | Retail (Tesco) | Large enterprise |
+| P3 | MdMasud Rana | Yena | Event Manager | Hospitality (Bantof, Soho) | Small/growing |
+| P4 | Shirish | D (Anonymous) | Senior Carer | Private Nursing Home | 11–50 staff |
+| P5 | Rajan | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
+| P6 | Nojus | Anonymous | Project Coordinator | Architecture & Construction | Mid-size firm |
 
-> Note: All participants are professionals with real workplace experience. No students were interviewed, in line with the project brief.
-
----
-
-## 5. Interview Questions
-
-The following questions were used across all interviews. Questions are intentionally neutral to avoid leading participants.
-
-### Warm-up
-1. Can you briefly describe your current role and what a typical workday looks like for you?
-
-### Current Tools & Information Flow
-2. How many different tools or platforms do you use on a daily basis to do your job?
-3. How do you keep track of tasks, updates, and team information throughout the day?
-4. Is there a single place you go to get an overview of what's happening — or is it spread across several places?
-
-### Pain Points
-5. Can you describe a recent moment where finding information, or keeping on top of everything, felt frustrating or overwhelming?
-6. What slows you down the most when navigating your work tools?
-
-### Needs & Expectations
-7. If you could have one dashboard that brought everything together, what would it absolutely need to show you first?
-8. How do you feel about tools that use AI or automation to surface information for you — do you trust them? Why or why not?
-
-### Closing
-9. Is there anything about how you currently work that you wish more tools understood about you?
+> All participants are professionals with real workplace experience. No students were interviewed, in line with the project brief.
 
 ---
 
-## 6. Data Capture
+## 5. Interview Questions Used
 
-- Notes taken in a shared document during each interview
-- Raw notes stored in `/research/` folder in the GitHub repository
-- Key quotes and themes highlighted for synthesis
+Questions were consistent in theme across all six interviews, covering:
 
----
-
-## 7. Synthesis Approach
-
-After all interviews were complete, the team:
-
-1. Reviewed all raw notes together
-2. Clustered recurring themes using affinity mapping (Figma sticky notes)
-3. Identified the top pain point themes (e.g., "too many tools", "can't see the full picture", "navigation is confusing")
-4. Used these themes to write hypotheses in `/docs/hypotheses.md`
+- **Role & context** — job title, industry, company size
+- **Onboarding experience** — first days, what felt unclear, what structure was (or wasn't) in place
+- **Information retrieval** — where people look first, how often they check multiple places, specific examples of failing to find something
+- **Tools & organisation** — current systems used, personal workarounds (notes, bookmarks, memory)
+- **AI trust** — current AI usage, what builds or breaks trust, privacy concerns, when AI should defer to humans
+- **Ideal solution** — what one thing would most improve their experience
 
 ---
 
-## 8. Ethical Considerations
+## 6. Raw Notes & Recordings
 
-- Participants were informed of the purpose of the research before the interview
-- No personally identifiable information is stored in the repository
+All raw interview transcripts are stored in the `/research/` folder:
+
+- `Interview_Transcript_Turag.docx` — P1, Marketing Executive
+- `Interview_Transcript_Arnob.docx` — P2, Tesco Sales Assistant
+- `Meeting_with_MdMasud_Rana.docx` — P3, Event Manager (recorded session)
+- `shirish_transcribe_interview.docx` — P4, Senior Carer
+- `meeting_transcript.docx` — P5, Marketing Executive (Rajan)
+- `nojus_interview.odt` — P6, Project Coordinator (Nojus)
+
+---
+
+## 7. Key Findings by Theme
+
+### 7.1 Information is Scattered Across Multiple Places
+All six participants confirmed they regularly check more than one place to find what they need. P1 and P5 (both Marketing Executives at the same firm) described spending more time searching for files than doing actual work — each had to ask two to three colleagues just to locate a single misfiled client document. P2 (Tesco) frequently had to ask colleagues or managers to locate stock information during busy periods. P3 (Event Manager) kept personal notes but still had to "search everywhere" for specific details. P4 (Carer) maintained notes and spreadsheets but acknowledged the high manual effort to keep them updated. P6 (Project Coordinator) described finding a "REVISED_FINAL" document in a random email thread after already actioning a wrong version from the Shared Drive — a mistake that caused a two-day site delay and a costly material order error.
+
+**Implication for dashboard:** A unified, single-screen view of tasks, key documents, and contacts is strongly validated across all six participants. Version control and clear document status (e.g. "latest") is a specific need raised by P6.
+
+### 7.2 Onboarding Felt Unstructured or Generic
+Five out of six participants described their onboarding as confusing, overwhelming, or poorly structured. P1 and P5 both described it as "box-ticking" with no role-specific guidance. P2 mostly shadowed colleagues with no formal structure. P3 felt confused and highly stressed during their first solo event. P6 described a "sink or swim" situation — handed a laptop and told to "look through the server," with no map, no contacts list, and no tailored guidance. P4 had a more positive experience due to a supportive team, but noted that a written quick-reference guide would still have helped.
+
+**Implication for dashboard:** A visible onboarding progress indicator, a "who to contact" section, and a clear "what's next" prompt on the dashboard would directly address this pain point across the majority of participants.
+
+### 7.3 Cognitive Load and Stress Are Real and Frequent
+All six participants mentioned stress, delays, or mistakes as a direct result of information overload or unclear navigation. P1 and P5 felt overwhelmed by scattered files and unclear daily priorities. P2 found busy periods especially stressful when information was hard to locate quickly. P3 described a "vicious circle" of time delays causing more stress and more mistakes. P4 noted stress that lingered even during sleep. P6 described the same vicious circle explicitly: "The more time I spend hunting for info, the further behind I get, which makes me more stressed, which leads to more mistakes."
+
+**Implication for dashboard:** Reducing visible complexity and surfacing only the most relevant information at any given moment is critical. A calm, prioritised dashboard view is not a nice-to-have — it is the core value proposition.
+
+### 7.4 AI Is Used but Trust Is Conditional
+All six participants had used AI tools, primarily ChatGPT. Usage was mostly limited to language polishing, summarising meeting notes, or drafting emails quickly. Key trust barriers included: AI responses sounding generic or inaccurate for work-critical queries (P1, P5), privacy concerns around sharing company or client data (P3, P4), and — most specifically — P6 stating they would need AI to cite the source document for any factual claim before they would trust it. All six participants agreed AI should defer to humans for sensitive, high-stakes, or emotionally complex decisions.
+
+**Implication for dashboard:** Any AI features must show exactly where answers come from (with links to source documents), allow easy verification or override, and must never handle sensitive data without explicit user consent. "Hallucinations" were mentioned as an immediate trust-killer (P6).
+
+### 7.5 The Ideal Solution: One Unified Place
+When asked what single change would most improve their experience, all six participants independently described some version of a unified system:
+
+- P1: "A single platform where tasks, links, and documents are organised in one place."
+- P2: "All information in one easy-to-access system."
+- P3: "A good format" — clear structure for everything in one place.
+- P4: "A note or guidance that saves time — or even a life."
+- P5: "A single platform with everything in one place."
+- P6: "A Single Source of Truth — one centralised dashboard where I can see my tasks, the latest document versions, and the key contacts. No more jumping between five different apps."
+
+**Implication for dashboard:** This is the strongest signal from the research. Six out of six participants independently converged on this answer. The HiveMind Dashboard concept is directly validated.
+
+---
+
+## 8. Synthesis Approach
+
+After collecting all six transcripts, the team:
+
+1. Reviewed all raw notes and transcripts together
+2. Clustered recurring themes using affinity mapping on the Figma Research page
+3. Identified the five top pain point themes documented in Section 7 above
+4. Used these themes to write hypotheses stored in `/docs/hypotheses.md`
+
+---
+
+## 9. Ethical Considerations
+
+- All participants gave verbal consent to be recorded or interviewed for academic research purposes
+- Participant identities are anonymised in all documentation (referred to by role or code name)
+- No personally identifiable client or company data is stored in the repository
 - Participation was voluntary
