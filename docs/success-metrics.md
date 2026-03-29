@@ -7,7 +7,7 @@
 
 ## 1. Overview
 
-These metrics define how we will measure whether our Dashboard design successfully addresses Christoph's pain points — cognitive load, scattered information, no unified view, and difficult navigation — as validated by our six interviews with workplace professionals across digital marketing, retail, hospitality, healthcare, and architecture & construction.
+These metrics define how we will measure whether our Dashboard design successfully addresses Christoph's pain points — cognitive load, scattered information, no unified view, and difficult navigation — as validated by our six interviews with workplace professionals across retail, digital marketing, hospitality, healthcare, and architecture & construction.
 
 Metrics are collected during Week 4 usability testing sessions with 3–5 professional participants.
 
@@ -40,7 +40,7 @@ Metrics are collected during Week 4 usability testing sessions with 3–5 profes
 | Navigate to a new section | ≤ 30 seconds |
 | Identify the correct/latest document version | ≤ 45 seconds |
 
-**Why it matters:** P1 and P5 (Marketing Executives) both described spending more time searching for things than doing actual work. P2 (Tesco) said slow information retrieval made busy periods stressful. P6 described spending so long "hunting for info" that it caused downstream delays and mistakes. Speed of access is a consistent need across all six participants.
+**Why it matters:** P2 and P3 (Marketing Executives) both described spending more time searching for things than doing actual work. P1 (Tesco) said slow information retrieval made busy periods stressful. P6 described spending so long "hunting for info" that it caused downstream delays and mistakes. Speed of access is a consistent need across all six participants.
 
 **How to capture:** Start a timer when the task is given, stop when the user confirms completion or gives up.
 
@@ -64,12 +64,12 @@ Metrics are collected during Week 4 usability testing sessions with 3–5 profes
 - **Target:** Average score of ≥ 4.0
 - **Question asked post-test:** *"On a scale of 1 to 5, how overwhelming did the dashboard feel overall?"*
 
-**Why it matters:** P1, P2, P3, P4, P5, and P6 all described stress and cognitive overload as a direct consequence of their current tools. P3 and P6 used identical language — "vicious circle" — to describe how overload compounds into more mistakes. A dashboard that still feels overwhelming has not solved the core problem.
+**Why it matters:** All six participants described stress and cognitive overload as a direct consequence of their current tools. P4 and P6 used identical language — "vicious circle" — to describe how overload compounds into more mistakes. A dashboard that still feels overwhelming has not solved the core problem.
 
 ---
 
 ### 2.5 Navigation Confidence Rating
-**What it measures:** Whether users feel confident they know where to find things — addressing the "I had to ask three people to find one file" problem raised by P1 and P5.
+**What it measures:** Whether users feel confident they know where to find things — addressing the "I had to ask three people to find one file" problem raised by P2 and P3.
 
 - **Scale:** 1 = Not confident at all → 5 = Very confident
 - **Target:** Average score of ≥ 4.0
@@ -84,7 +84,7 @@ Metrics are collected during Week 4 usability testing sessions with 3–5 profes
 - **Target:** Average score of ≥ 4.0
 - **Question asked post-test:** *"On a scale of 1 to 5, how likely would you be to use this dashboard in your daily work?"*
 
-**Why it matters:** All six interviewees independently described wanting exactly this kind of product. P6 called it a "Single Source of Truth." P5 said "a single platform with everything in one place." This metric validates whether our design delivers on that promise in practice.
+**Why it matters:** All six interviewees independently described wanting exactly this kind of product. P6 called it a "Single Source of Truth." P3 said "a single platform with everything in one place." This metric validates whether our design delivers on that promise in practice.
 
 ---
 
@@ -109,12 +109,12 @@ Based on what all six participants told us they need, we will specifically check
 
 | Interview Insight | Who Said It | Design Feature to Test | How to Measure |
 |---|---|---|---|
-| "I spent more time searching than working" | P1, P5 | Unified search / quick access panel | Time on task |
-| "I had to ask 2–3 people to find one file" | P1, P5 | Document visibility & organisation | Task completion rate |
-| "I keep things in notes but it gets messy" | P1, P3, P4, P5 | Centralised information view | Ease of use + overwhelm rating |
-| "I want tasks, deadlines, and key links on one screen" | P2, P4, P5 | Task + priority panel on dashboard | Navigation confidence + qualitative feedback |
+| "I spent more time searching than working" | P2, P3 | Unified search / quick access panel | Time on task |
+| "I had to ask 2–3 people to find one file" | P2, P3 | Document visibility & organisation | Task completion rate |
+| "I keep things in notes but it gets messy" | P2, P3, P4, P5 | Centralised information view | Ease of use + overwhelm rating |
+| "I want tasks, deadlines, and key links on one screen" | P1, P3, P5 | Task + priority panel on dashboard | Navigation confidence + qualitative feedback |
 | "I ordered wrong materials because of a versioning issue" | P6 | Clear document status / version labelling | Task: identify correct document version |
-| "No clear plan — sink or swim onboarding" | P1, P2, P5, P6 | Onboarding progress + what's next | Task: identify next step |
+| "No clear plan — sink or swim onboarding" | P1, P2, P3, P6 | Onboarding progress + what's next | Task: identify next step |
 | "AI must cite its sources or I lose trust immediately" | P6 | AI source transparency indicator | Post-test interview question |
 | "I trust AI for basics, not for critical things" | P1, P2, P3, P4, P5, P6 | Human escalation / AI fallback behaviour | Post-test interview question |
 
