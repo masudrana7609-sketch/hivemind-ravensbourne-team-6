@@ -41,11 +41,11 @@ The following questions guided all interviews:
 
 | # | Interviewer | Participant | Role | Industry | Company Size |
 |---|---|---|---|---|---|
-| P1 | Toriqul | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
-| P2 | Arnob | Anonymous | Sales Assistant | Retail (Tesco) | Large enterprise |
-| P3 | MdMasud Rana | Yena | Event Manager | Hospitality (Bantof, Soho) | Small/growing |
-| P4 | Shirish | D (Anonymous) | Senior Carer | Private Nursing Home | 11–50 staff |
-| P5 | Rajan | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
+| P1 | Arnob | Anonymous | Sales Assistant | Retail (Tesco) | Large enterprise |
+| P2 | Toriqul | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
+| P3 | Rajan | Anonymous | Marketing Executive | Digital Marketing | ~200 employees |
+| P4 | MdMasud Rana | Yena | Event Manager | Hospitality (Bantof, Soho) | Small/growing |
+| P5 | Shirish | D (Anonymous) | Senior Carer | Private Nursing Home | 11–50 staff |
 | P6 | Nojus | Anonymous | Project Coordinator | Architecture & Construction | Mid-size firm |
 
 > All participants are professionals with real workplace experience. No students were interviewed, in line with the project brief.
@@ -67,47 +67,47 @@ Questions were consistent in theme across all six interviews, covering:
 
 ## 6. Raw Notes & Recordings
 
-All raw interview transcripts are stored in the `/research/` folder:
+All raw interview transcripts are stored in the `/research/transcripts/` folder:
 
-- `Interview_Transcript_Turag.docx` — P1, Marketing Executive
-- `Interview_Transcript_Arnob.docx` — P2, Tesco Sales Assistant
-- `Meeting_with_MdMasud_Rana.docx` — P3, Event Manager (recorded session)
-- `shirish_transcribe_interview.docx` — P4, Senior Carer
-- `meeting_transcript.docx` — P5, Marketing Executive (Rajan)
-- `nojus_interview.odt` — P6, Project Coordinator (Nojus)
+- `Group6_P01_2026-03-25_Interview.md` — P1, Tesco Sales Assistant (Arnob)
+- `Group6_P02_2026-03-25_Interview.md` — P2, Marketing Executive (Toriqul)
+- `Group6_P03_2026-03-25_Interview.md` — P3, Marketing Executive (Rajan)
+- `Group6_P04_2026-03-25_Interview.md` — P4, Event Manager (MdMasud Rana)
+- `Group6_P05_2026-03-25_Interview.md` — P5, Senior Carer (Shirish)
+- `Group6_P06_2026-03-25_Interview.md` — P6, Project Coordinator (Nojus)
 
 ---
 
 ## 7. Key Findings by Theme
 
 ### 7.1 Information is Scattered Across Multiple Places
-All six participants confirmed they regularly check more than one place to find what they need. P1 and P5 (both Marketing Executives at the same firm) described spending more time searching for files than doing actual work — each had to ask two to three colleagues just to locate a single misfiled client document. P2 (Tesco) frequently had to ask colleagues or managers to locate stock information during busy periods. P3 (Event Manager) kept personal notes but still had to "search everywhere" for specific details. P4 (Carer) maintained notes and spreadsheets but acknowledged the high manual effort to keep them updated. P6 (Project Coordinator) described finding a "REVISED_FINAL" document in a random email thread after already actioning a wrong version from the Shared Drive — a mistake that caused a two-day site delay and a costly material order error.
+All six participants confirmed they regularly check more than one place to find what they need. P2 and P3 (both Marketing Executives at the same firm) described spending more time searching for files than doing actual work — each had to ask two to three colleagues just to locate a single misfiled client document. P1 (Tesco) frequently had to ask colleagues or managers to locate stock information during busy periods. P4 (Event Manager) kept personal notes but still had to "search everywhere" for specific details. P5 (Carer) maintained notes and spreadsheets but acknowledged the high manual effort to keep them updated. P6 (Project Coordinator) described finding a "REVISED_FINAL" document in a random email thread after already actioning a wrong version from the Shared Drive — a mistake that caused a two-day site delay and a costly material order error.
 
 **Implication for dashboard:** A unified, single-screen view of tasks, key documents, and contacts is strongly validated across all six participants. Version control and clear document status (e.g. "latest") is a specific need raised by P6.
 
 ### 7.2 Onboarding Felt Unstructured or Generic
-Five out of six participants described their onboarding as confusing, overwhelming, or poorly structured. P1 and P5 both described it as "box-ticking" with no role-specific guidance. P2 mostly shadowed colleagues with no formal structure. P3 felt confused and highly stressed during their first solo event. P6 described a "sink or swim" situation — handed a laptop and told to "look through the server," with no map, no contacts list, and no tailored guidance. P4 had a more positive experience due to a supportive team, but noted that a written quick-reference guide would still have helped.
+Five out of six participants described their onboarding as confusing, overwhelming, or poorly structured. P2 and P3 both described it as "box-ticking" with no role-specific guidance. P1 mostly shadowed colleagues with no formal structure in place. P4 felt confused and highly stressed during their first solo event. P6 described a "sink or swim" situation — handed a laptop and told to "look through the server," with no map, no contacts list, and no tailored guidance. P5 had a more positive experience due to a supportive team, but noted that a written quick-reference guide would still have helped.
 
 **Implication for dashboard:** A visible onboarding progress indicator, a "who to contact" section, and a clear "what's next" prompt on the dashboard would directly address this pain point across the majority of participants.
 
 ### 7.3 Cognitive Load and Stress Are Real and Frequent
-All six participants mentioned stress, delays, or mistakes as a direct result of information overload or unclear navigation. P1 and P5 felt overwhelmed by scattered files and unclear daily priorities. P2 found busy periods especially stressful when information was hard to locate quickly. P3 described a "vicious circle" of time delays causing more stress and more mistakes. P4 noted stress that lingered even during sleep. P6 described the same vicious circle explicitly: "The more time I spend hunting for info, the further behind I get, which makes me more stressed, which leads to more mistakes."
+All six participants mentioned stress, delays, or mistakes as a direct result of information overload or unclear navigation. P2 and P3 felt overwhelmed by scattered files and unclear daily priorities. P1 found busy periods especially stressful when information was hard to locate quickly. P4 described a "vicious circle" of time delays causing more stress and more mistakes. P5 noted stress that lingered even during sleep. P6 described the same vicious circle explicitly: "The more time I spend hunting for info, the further behind I get, which makes me more stressed, which leads to more mistakes."
 
 **Implication for dashboard:** Reducing visible complexity and surfacing only the most relevant information at any given moment is critical. A calm, prioritised dashboard view is not a nice-to-have — it is the core value proposition.
 
 ### 7.4 AI Is Used but Trust Is Conditional
-All six participants had used AI tools, primarily ChatGPT. Usage was mostly limited to language polishing, summarising meeting notes, or drafting emails quickly. Key trust barriers included: AI responses sounding generic or inaccurate for work-critical queries (P1, P5), privacy concerns around sharing company or client data (P3, P4), and — most specifically — P6 stating they would need AI to cite the source document for any factual claim before they would trust it. All six participants agreed AI should defer to humans for sensitive, high-stakes, or emotionally complex decisions.
+All six participants had used AI tools, primarily ChatGPT. Usage was mostly limited to language polishing, summarising meeting notes, or drafting emails quickly. Key trust barriers included: AI responses sounding generic or inaccurate for work-critical queries (P2, P3), privacy concerns around sharing company or client data (P4, P5), and — most specifically — P6 stating they would need AI to cite the source document for any factual claim before they would trust it. All six participants agreed AI should defer to humans for sensitive, high-stakes, or emotionally complex decisions.
 
 **Implication for dashboard:** Any AI features must show exactly where answers come from (with links to source documents), allow easy verification or override, and must never handle sensitive data without explicit user consent. "Hallucinations" were mentioned as an immediate trust-killer (P6).
 
 ### 7.5 The Ideal Solution: One Unified Place
 When asked what single change would most improve their experience, all six participants independently described some version of a unified system:
 
-- P1: "A single platform where tasks, links, and documents are organised in one place."
-- P2: "All information in one easy-to-access system."
-- P3: "A good format" — clear structure for everything in one place.
-- P4: "A note or guidance that saves time — or even a life."
-- P5: "A single platform with everything in one place."
+- P1: "All information in one easy-to-access system."
+- P2: "A single platform where tasks, links, and documents are organised in one place."
+- P3: "A single platform with everything in one place."
+- P4: "A good format" — clear structure for everything in one place.
+- P5: "A note or guidance that saves time — or even a life."
 - P6: "A Single Source of Truth — one centralised dashboard where I can see my tasks, the latest document versions, and the key contacts. No more jumping between five different apps."
 
 **Implication for dashboard:** This is the strongest signal from the research. Six out of six participants independently converged on this answer. The HiveMind Dashboard concept is directly validated.
