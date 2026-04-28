@@ -1,12 +1,12 @@
 # Hypotheses
 
-> Based on Week 1 interviews with 5 working professionals across retail, digital marketing, hospitality, and healthcare industries.
+> Based on Week 1 interviews with 6 working professionals across retail, digital marketing, hospitality, healthcare, and architecture & construction industries.
 
 ---
 
 ## Pain Points Identified
 
-Across all 5 interviews, the following recurring themes emerged:
+Across all 6 interviews, the following recurring themes emerged:
 
 - **Unstructured onboarding** — participants felt overwhelmed on their first days with no clear plan or "what to do next" guidance
 - **Information scattered across multiple tools** — people had to check Google Drive, ask colleagues, search notes, and still sometimes couldn't find what they needed
@@ -46,7 +46,13 @@ Across all 5 interviews, the following recurring themes emerged:
 
 **H5: We believe that clearly defining who is responsible for what — and making that visible during onboarding — will reduce confusion and help new starters get help faster, because multiple participants said they didn't know who to ask when they needed help.**
 
-> Evidence: P1 said "Not always" when asked if they knew who to ask. P3 said "I didn't know who was responsible for what." P2 said the same issue caused delays and stress. Only D (Healthcare) felt supported, crediting a hands-on team — not a system — as the reason.
+> Evidence: P1 said "Not always" when asked if they knew who to ask. P3 said "I didn't know who was responsible for what." P2 said the same issue caused delays and stress. P06 (Architecture) said "I spent more time trying to find the right person to ask than actually doing the work."
+
+---
+
+**H6: We believe that ensuring all documents are version-controlled and accessible from a single location will reduce errors caused by outdated information, because participants described finding conflicting document versions and making costly decisions based on the wrong one.**
+
+> Evidence: P06 (Architecture & Construction) described finding a "REVISED_FINAL" blueprint in a random email thread after already using the "Final" version from the shared drive. This led to ordering the wrong timber and a two-day site delay. P2 and P3 both described similar frustrations with outdated documents. P06 said: "You never know which one is the actual truth."
 
 ---
 
@@ -54,8 +60,9 @@ Across all 5 interviews, the following recurring themes emerged:
 
 | # | Hypothesis | Key Evidence |
 |---|-----------|--------------|
-| H1 | Role-specific onboarding reduces overwhelm | All 5 participants described chaotic, unstructured first days |
+| H1 | Role-specific onboarding reduces overwhelm | All 6 participants described chaotic, unstructured first days |
 | H2 | Centralised knowledge hub saves time | All participants checked multiple places; still couldn't find things |
 | H3 | AI trust increases when sources are shown | Participants distrust AI unless answers are verifiable |
 | H4 | Dashboard with tasks/deadlines improves focus | Participants rely on messy personal notes and memory |
 | H5 | Clear ownership maps help new starters get help faster | Multiple participants didn't know who to ask for help |
+| H6 | Version-controlled single source of truth prevents costly errors | P06 ordered wrong materials from outdated doc — 2-day site delay |
